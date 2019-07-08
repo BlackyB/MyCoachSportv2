@@ -1,6 +1,5 @@
   <footer class="container-fluid row justify-content-around align-items-center">
     <div class="row align-items-center links">
-      <div class="col-sm-auto"><a href="/fr/cgu/">CGU</a></div>
       <div class="col-sm-auto"><a href="/fr/mentions/">Mentions légales</a></div>
     </div>
     <div class="col-sm-auto row align-items-center socials">
