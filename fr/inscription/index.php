@@ -14,7 +14,7 @@
     <h2 class="txt-center">Votre inscription à la newsletter My Coach Sport est enregistrée.</h2>
     <a class="m-Top-60" href="../index.php"><div class=" col justify-center button-Connexion"><p class="section-Texte txt-center">Retour à l'Accueil</div></a>
   </div>
-  <div class="container p-0">
+  <div class="container-fluid">
     <?php include('../footer.inc.php'); ?>
   </div>
 
