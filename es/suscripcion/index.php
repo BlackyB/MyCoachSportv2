@@ -21,7 +21,8 @@
     <a class="m-Top-60" href="../index.php"><div class=" col justify-center button-Connexion"><p class="section-Texte txt-center">Volver a la página de inicio</div></a>
     </div>
     
-    <?php include('../footer.inc.php'); ?>
+    <?php include('footer.inc.php'); ?>
+    <?php include('../foot.inc.php'); ?>
 
   </body>
   </html>

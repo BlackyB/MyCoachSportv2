@@ -16,6 +16,7 @@
   </div>
   <div class="container-fluid p-0">
     <?php include('footer.inc.php'); ?>
+    <?php include('../foot.inc.php'); ?>
   </div>
 
   </body>
