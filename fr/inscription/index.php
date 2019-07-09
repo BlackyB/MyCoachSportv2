@@ -15,7 +15,7 @@
     <a class="m-Top-60" href="../index.php"><div class=" col justify-center button-Connexion"><p class="section-Texte txt-center">Retour à l'Accueil</div></a>
   </div>
   <div class="container-fluid p-0">
-    <?php include('../footer.inc.php'); ?>
+    <?php include('footer.inc.php'); ?>
   </div>
 
   </body>
