@@ -11,7 +11,7 @@
       </div>
 
       <div class="d-flex flex-column align-items-center">       
-        <h2 class="txt-center">Subsciption to My Coach Sport's newsletter validated.</h2>
+        <h2 class="txt-center">Subscription to My Coach Sport's newsletter validated.</h2>
         <a class="m-Top-60" href="../index.php"><div class=" col justify-center button-Connexion"><p class="section-Texte txt-center">Back to homepage</div></a>
         </div>
         <div class="container-fluid p-0">
