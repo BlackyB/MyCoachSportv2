@@ -1568,7 +1568,7 @@ body#presse::before {
 	footer{
 		padding: 0;
 		flex-direction: row;
-		position: sticky;
+		position: fixed;
 	}
 
 	.navbar-expand-lg .navbar-nav .nav-item {
