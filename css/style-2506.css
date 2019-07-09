@@ -1124,6 +1124,12 @@ body#presse::before {
 	margin: 0 2px;
 }
 
+/********** INSCRIPTION *******/
+
+.full-H{
+	min-height: 100vh;
+}
+
 /****** RESPONSIVE *******/
 
 /* Tiny devices (old smartphone) */
