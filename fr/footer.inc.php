@@ -23,4 +23,4 @@
         </form>
       </div>
   </footer>
-<!-- <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=9ce61567-43a5-416e-9a18-206b98bbff04"></script> -->
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=9ce61567-43a5-416e-9a18-206b98bbff04"></script>
