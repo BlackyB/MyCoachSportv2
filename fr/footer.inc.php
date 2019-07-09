@@ -17,7 +17,7 @@
           <input type="hidden" name="from_url" id="from_url" value="yes">
           <input type="hidden" name="hdn_email_txt" id="hdn_email_txt" value="">
           <input type="hidden" name="sib_simple" value="simple">
-          <input type="hidden" name="sib_forward_url" value="http://mycoachsport.herokuapp.com/fr/inscription.php" id="sib_forward_url">
+          <input type="hidden" name="sib_forward_url" value="http://www.mycoachsport.com/fr/inscription" id="sib_forward_url">
           <input class="button-submit" required type="email" name="email" id="email" value="" placeholder="Newsletter : votre mail">
           <button class="button-submit" type="submit" data-editfield="subscribe">OK</button>
         </form>

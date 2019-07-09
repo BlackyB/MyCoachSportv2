@@ -55,9 +55,15 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.mycoachsport.com/en/notice" />
     <xhtml:link rel="alternate" hreflang="es" href="https://www.mycoachsport.com/es/notas" />
   </url>
+  <url>
+    <loc>https://www.mycoachsport.com/fr/inscription</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.mycoachsport.com/fr/inscription" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.mycoachsport.com/en/subscription" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.mycoachsport.com/es/suscripcion" />
+  </url>
 
   <url>
-    <loc>https://www.mycoachsport.com/enr</loc>
+    <loc>https://www.mycoachsport.com/en</loc>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.mycoachsport.com/fr" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.mycoachsport.com/en" />
     <xhtml:link rel="alternate" hreflang="es" href="https://www.mycoachsport.com/es" />
@@ -109,6 +115,12 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.mycoachsport.com/fr/mentions" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.mycoachsport.com/en/notice" />
     <xhtml:link rel="alternate" hreflang="es" href="https://www.mycoachsport.com/es/notas" />
+  </url>
+  <url>
+    <loc>https://www.mycoachsport.com/en/subscription</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.mycoachsport.com/fr/inscription" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.mycoachsport.com/en/subscription" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.mycoachsport.com/es/suscripcion" />
   </url>
 
   <url>
@@ -164,5 +176,11 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.mycoachsport.com/fr/mentions" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.mycoachsport.com/en/notice" />
     <xhtml:link rel="alternate" hreflang="es" href="https://www.mycoachsport.com/es/notas" />
+  </url>
+  <url>
+    <loc>https://www.mycoachsport.com/es/suscripcion</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.mycoachsport.com/fr/inscription" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.mycoachsport.com/en/subscription" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.mycoachsport.com/es/suscripcion" />
   </url>
 </urlset>

@@ -17,7 +17,7 @@
           <input type="hidden" name="from_url" id="from_url" value="yes">
           <input type="hidden" name="hdn_email_txt" id="hdn_email_txt" value="">
           <input type="hidden" name="sib_simple" value="simple">
-          <input type="hidden" name="sib_forward_url" value="https://www.mycoachsport.com/en" id="sib_forward_url">
+          <input type="hidden" name="sib_forward_url" value="https://www.mycoachsport.com/en/subscription" id="sib_forward_url">
           <input class="button-submit" required type="email" name="email" id="email" value="" placeholder="Newsletter : votre mail">
           <button class="button-submit" type="submit" data-editfield="subscribe">OK</button>
         </form>
