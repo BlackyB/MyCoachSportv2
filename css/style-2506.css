@@ -490,7 +490,7 @@ a.btn.savoir {
 }
 
 footer {
-	position: sticky;
+	position: fixed;
 	z-index: 50;
 	bottom: 0;
 	background: #090909;
